@@ -1,0 +1,15 @@
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\bin\Debug\net6.0\FunctionSolver.exe
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\bin\Debug\net6.0\FunctionSolver.deps.json
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\bin\Debug\net6.0\FunctionSolver.runtimeconfig.json
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\bin\Debug\net6.0\FunctionSolver.dll
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\bin\Debug\net6.0\FunctionSolver.pdb
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\FunctionSolver.csproj.AssemblyReference.cache
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\FunctionSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\FunctionSolver.AssemblyInfoInputs.cache
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\FunctionSolver.AssemblyInfo.cs
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\FunctionSolver.csproj.CoreCompileInputs.cache
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\FunctionSolver.dll
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\refint\FunctionSolver.dll
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\FunctionSolver.pdb
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\FunctionSolver.genruntimeconfig.cache
+D:\SideProjects\infinite-numbers\EquationSolver\EquationSolver\obj\Debug\net6.0\ref\FunctionSolver.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "idkTjKfYcitQ+7bTSsjlW+xJxmWTM0j1ribc6ahy4u1zVZFXXGjpDOG0QF3wiSU1nisJ5TQYSmMsBs8avsv5Xw==",
+  "success": true,
+  "projectFilePath": "D:\\SideProjects\\infinite-numbers\\EquationSolver\\EquationSolver\\FunctionSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azefr\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.13\\microsoft.netcore.app.runtime.win-x86.6.0.13.nupkg.sha512",
+    "C:\\Users\\azefr\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.13.nupkg.sha512",
+    "C:\\Users\\azefr\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x86.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
